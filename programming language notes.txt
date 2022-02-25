@@ -1,0 +1,31 @@
+source https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/
+
+Python - commonly used in social apps, financials, and AI
+        - easy to pick up, in high demand
+Javascript - highest use in customer facing "interactive" website
+            -can be coded in browser-based software 'node.js'
+            -use to design pop-up ads >:(
+Java - used to connect "client-server" functions, can be run on several coding platforms that support interactive
+        - ideal for big businesses with large server-based needs
+        - not well suited for cloud-based operations 
+C# - developed by Microsoft, functions primarily for windows app developments and ads
+    - can be difficult to learn
+    - operable on mobile and gaming platforms with additional extention
+C - commonly used for programming hardware, early developed language (foundational)
+   - more complex than most contemporary languages
+   - not well suited mobile or web bases applications
+C++ - extention of C, is similarly can be used as a foundation for most applications
+     - equally complex to can
+     - works well for "multi-platform systems" (those that are access via web, mobile, console, etc.)
+Go - Developed by Google, not commonly used in development world at this point
+    - does not have "library for graphical user interfaces", ie. it can't be used for most commen end-user interactions
+    - well suited for processing large quantities of data from multiple networks (think silicon valley big businesses)
+R - High demend in 'machine learning' and statistical analysis applications
+   - not well established in structure or libraries compared to older languages
+   - has space to be expanded or altered to increase function (extensible)
+Swift - Develped by Apple, used in all mobile and computing OS (newer than iOS7)
+        - easy to read and efficient
+        - exclusive to Apple products
+PHP - Has been developed significantly due its early development and common use
+      - Known security issues
+      - works well for "content-oriented" applications that frequently communicate with servers for information
